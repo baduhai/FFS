@@ -1,0 +1,13 @@
+name = "FFS"
+author = "baduhai"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4bf828255bff0a882a2305865a3ce9c30d65bb9c4a3f73bdffc12f71521011c2"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.20.1"
