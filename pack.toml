@@ -1,4 +1,4 @@
-name = "FFS"
+name = "prominence"
 author = "baduhai"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,8 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e73e162093acb20714eb2c44d9c52b0b6acccfc28afbcbea249db455c699a3e1"
+hash = "81f9977eb0b88ae9f11fe638bb0120d76d0964883ca229de9282ef14033ec9b8"
 
 [versions]
-fabric = "0.15.9"
-minecraft = "1.20.4"
+fabric = "0.14.25"
+minecraft = "1.20.1"

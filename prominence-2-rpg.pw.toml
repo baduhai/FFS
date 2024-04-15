@@ -1,0 +1,13 @@
+name = "Prominence II [RPG]"
+filename = "Prominence II [RPG]-v2.8.0hf.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8ab427525a52b35a67b7ef69b67cb2dce586c3cd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5263904
+project-id = 466901
