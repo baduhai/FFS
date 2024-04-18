@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "ee9bd23aea09a314966d57a211d84aa288e7803c4277c6996edac334eee77c58"
+metafile = true
+
+[[files]]
 file = "prominence-2-rpg.pw.toml"
 hash = "8cb3d9cff34a29542c458923284bc71633d0ebaf2a4482584411b7bd6215eab9"
 metafile = true
